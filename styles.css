@@ -1,0 +1,22 @@
+.navbar-background {
+    background-color:#A6F6FF;
+}
+.btn-color {
+    background-color: #9EDDFF;
+}
+.navbar-font{
+    font-size: 60;
+}
+.navbar-logo {
+    max-height: 40px;
+    max-width: 40px;
+    margin: 10px;
+    background-color: #A6F6FF;
+    
+}
+.bg-section1-color {
+    background-color: #d4f9f5;
+}
+.bg-section2-color {
+    background-color: #d8f6f3;
+}
